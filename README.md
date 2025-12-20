@@ -1,12 +1,12 @@
 # 💫 About Me
 
-### 👨‍💻 Perfil Profissional: Desenvolvedor Backend & Robótica
+### 👨‍💻 Desenvolvedor Backend & Robótica 
 
 "Sou um desenvolvedor apaixonado por tecnologia, com **foco principal em desenvolvimento Backend** e arquitetura de sistemas. Minha expertise está na construção de APIs robustas e escaláveis, além de uma sólida experiência no universo da **Robótica**. Tenho grande interesse na integração entre software e hardware, buscando sempre criar soluções que unam a eficiência do processamento de dados com a automação do mundo real."
 
 ---
 
-### 🚀 O que venho fazendo (Status)
+### 🚀 O que venho fazendo 
 
 * 🔭 **Atualmente trabalhando em:** Projetos de Backend de alta performance e integração de sistemas para automação robótica.
 * 👯 **Buscando colaborar em:** Projetos *Open Source* voltados para automação, IoT (Internet das Coisas) e infraestrutura de servidores.
