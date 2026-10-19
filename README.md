@@ -24,6 +24,7 @@ class Gabriel:
     def __init__(self):
         self.role      = ["Backend Developer", "Robotics Engineer"]
         self.team      = "Kombat Tech 🤖⚔️"
+        self.podiums   = 16  # 🥇x10 🥈x5 🥉x1 — incluindo pódio no FIRA Mundial
         self.focus     = ["APIs escaláveis", "Arquitetura de sistemas", "Automação"]
         self.hardware  = ["ESP32", "Arduino", "LEGO Spike", "EV3", "Sensores"]
         self.learning  = ["Microserviços", "Segurança em APIs", "Visão computacional"]
@@ -34,6 +35,81 @@ class Gabriel:
 ```
 
 > 🔌 Acredito que **backend** e **robótica** são os dois pilares que conectam o mundo físico ao digital de forma inteligente.
+
+---
+
+## 🏆 Premiações
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_1º_lugar-10x-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥈_2º_lugar-5x-C0C0C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥉_3º_lugar-1x-CD7F32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌍_Pódio_Mundial-FIRA_2022-7b2ff7?style=for-the-badge"/>
+</p>
+
+<details open>
+<summary><b>📅 2026</b></summary>
+
+| | Modalidade | Competição |
+|:-:|---|---|
+| 🥇 | Cabo de Guerra | FIRA Estadual |
+| 🥉 | Cabo de Guerra | Torneio Juvenil de Robótica — Regional |
+
+</details>
+
+<details open>
+<summary><b>📅 2025</b></summary>
+
+| | Modalidade | Competição |
+|:-:|---|---|
+| 🥇 | Cabo de Guerra | Torneio Juvenil de Robótica — Regional |
+
+</details>
+
+<details open>
+<summary><b>📅 2024</b></summary>
+
+| | Modalidade | Competição |
+|:-:|---|---|
+| 🥈 | Cabo de Guerra | FIRA Estadual |
+
+</details>
+
+<details>
+<summary><b>📅 2023</b></summary>
+
+| | Modalidade | Competição |
+|:-:|---|---|
+| 🥇 | Cabo de Guerra | FIRA Regional |
+| 🥇 | DRC-Explorer | FIRA Regional |
+| 🥈 | Missão Impossível | FIRA Regional |
+
+</details>
+
+<details>
+<summary><b>📅 2022</b></summary>
+
+| | Modalidade | Competição |
+|:-:|---|---|
+| 🥈 | Cabo de Guerra | **FIRA Mundial** 🌍 |
+| 🥈 | Cabo de Guerra | FIRA Regional |
+| 🥈 | DRC-Explorer | FIRA Regional |
+
+</details>
+
+<details>
+<summary><b>📅 2021</b></summary>
+
+| | Modalidade | Competição |
+|:-:|---|---|
+| 🥇 | Cabo de Guerra | Torneio Juvenil de Robótica — Nacional & International Tournament of Robots |
+| 🥇 | Cabo de Guerra 2vs2 | Torneio Juvenil de Robótica — Nacional & International Tournament of Robots |
+| 🥇 | Viagem ao Centro da Terra | Torneio Juvenil de Robótica — Nacional |
+| 🥇 | DRC-Explorer | FIRA Nacional |
+| 🥇 | Viagem ao Centro da Terra | Torneio Juvenil de Robótica — Regional |
+| 🥇 | Vídeo Multimidiático | Torneio Juvenil de Robótica — Regional |
+
+</details>
 
 ---
 
