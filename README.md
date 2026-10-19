@@ -1,6 +1,6 @@
 <!-- ========================= BANNER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:7b2ff7&height=220&section=header&text=Gabriel%20Vieira&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Robotics%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:7b2ff7&height=220&section=header&text=Gabriel%20Leite&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Robotics%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
