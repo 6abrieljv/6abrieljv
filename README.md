@@ -1,42 +1,173 @@
-# 💫 Sobre mim 
+<!-- ========================= BANNER ========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:7b2ff7&height=220&section=header&text=Gabriel%20Vieira&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Robotics%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-### 👨‍💻 Desenvolvedor Backend & Robótica 
+<p align="center">
+  <a href="https://github.com/6abrieljv">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=%3E+Inicializando+sistema...;%3E+Backend+%7C+APIs+escal%C3%A1veis+%E2%9A%99%EF%B8%8F;%3E+Rob%C3%B3tica+%7C+ESP32+%2B+Sensores+%F0%9F%A4%96;%3E+Conectando+o+f%C3%ADsico+ao+digital+%F0%9F%94%8C;%3E+Status%3A+online+%E2%9C%85" alt="Typing SVG" />
+  </a>
+</p>
 
-"Sou um desenvolvedor apaixonado por tecnologia, com **foco principal em desenvolvimento Backend** e arquitetura de sistemas. Minha expertise está na construção de APIs robustas e escaláveis, além de uma sólida experiência no universo da **Robótica**. Tenho grande interesse na integração entre software e hardware, buscando sempre criar soluções que unam a eficiência do processamento de dados com a automação do mundo real."
-
----
-
-### 🚀 O que venho fazendo 
-
-* 🔭 **Atualmente trabalhando em:** Projetos de Backend de alta performance e integração de sistemas para automação robótica.
-* 👯 **Buscando colaborar em:** Projetos *Open Source* voltados para automação, IoT (Internet das Coisas) e infraestrutura de servidores.
-* 🤝 **Disponível para ajudar com:** Modelagem de bancos de dados, lógica de programação para robótica e deploy de aplicações web.
-* 🌱 **No momento estudando:** Arquitetura de microserviços, segurança em APIs e otimização de algoritmos de hardware.
-* 💬 **Pode me perguntar sobre:** Python, Java (Spring Boot), eletrônica aplicada e como estruturar um backend eficiente.
-* ⚡ **Curiosidade:** Acredito que a robótica e o backend são os pilares que conectam o mundo físico ao digital de forma inteligente.
-
----
-
-### 🛠️ Stacks e Ferramentas
-
-| Área | Tecnologias |
-| :--- | :--- |
-| **Backend (Foco)** | Python (FastAPI/Django), Java (Spring Boot), Node.js |
-| **Robótica** | ESP32, Arduino, Lógica de Automação, Integração Sensorial |
-| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB |
-| **Infra/Web** | Nginx, Docker, Linux (Servidores), Git |
-| **Frontend** | React.js (Criação de Dashboards e interfaces de controle) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=6abrieljv&label=Visitas&color=00b4d8&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/6abrieljv?label=Seguidores&style=flat-square&color=7b2ff7" />
+  <img src="https://img.shields.io/badge/Status-Codando%20%26%20Soldando-00b4d8?style=flat-square" />
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/6abrie_l) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrieljv2019@gmail.com) 
+## `$ whoami`
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+```python
+class Gabriel:
+    def __init__(self):
+        self.role      = ["Backend Developer", "Robotics Engineer"]
+        self.team      = "Kombat Tech 🤖⚔️"
+        self.focus     = ["APIs escaláveis", "Arquitetura de sistemas", "Automação"]
+        self.hardware  = ["ESP32", "Arduino", "LEGO Spike", "EV3", "Sensores"]
+        self.learning  = ["Microserviços", "Segurança em APIs", "Visão computacional"]
+        self.motto     = "Software sem hardware é teoria. Hardware sem software é sucata."
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=6abrieljv&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=6abrieljv&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=6abrieljv&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    def mission(self):
+        return "Unir processamento de dados eficiente com automação do mundo real."
+```
+
+> 🔌 Acredito que **backend** e **robótica** são os dois pilares que conectam o mundo físico ao digital de forma inteligente.
+
+---
+
+## 🤖 Robótica — Projetos & Competições
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Robô de Combate
+Desenvolvimento do robô de combate da equipe **Kombat Tech** — dimensionamento de motores, controle de peso e estratégias de tração/downforce.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Carro Autônomo — FIRA
+Carro autônomo para o **FIRA Challenge — Autonomous Cars**: direção, tração, percepção de pista e controle em tempo real.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛟 Robô de Resgate — OBR
+Robô seguidor de linha para a **Olimpíada Brasileira de Robótica**: leitura de sensores, PID e decisões de arquitetura embarcada.
+
+</td>
+<td width="50%" valign="top">
+
+### 📷 Spike + ESP32-CAM
+[`spike_esp32_camera`](https://github.com/6abrieljv/spike_esp32_camera) — integração de visão com ESP32-CAM ao LEGO Spike.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Backend — O que eu construo
+
+```txt
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│   Sensores   │ ──▶ │  ESP32 / IoT │ ──▶ │   API REST   │ ──▶ │  Dashboard   │
+│  (mundo real)│     │  (MQTT/HTTP) │     │ FastAPI/Spring│     │    React     │
+└──────────────┘     └──────────────┘     └──────┬───────┘     └──────────────┘
+                                                 │
+                                          ┌──────▼───────┐
+                                          │  PostgreSQL  │
+                                          └──────────────┘
+```
+
+- 🔭 **Trabalhando em:** backends de alta performance e integração de sistemas para automação robótica
+- 👯 **Quero colaborar em:** Open Source de automação, IoT e infraestrutura de servidores
+- 🤝 **Posso ajudar com:** modelagem de banco de dados, lógica para robótica e deploy de aplicações web
+- 💬 **Me pergunte sobre:** Python, Java (Spring Boot), eletrônica aplicada e como estruturar um backend eficiente
+
+---
+
+## 🛠️ Tech Stack
+
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<h4 align="center">🤖 Robótica & Embarcados</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEGO_EV3%20%2F%20Spike-FFCF00?style=for-the-badge&logo=lego&logoColor=black"/>
+</p>
+
+<h4 align="center">🗄️ Bancos de Dados</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<h4 align="center">🐳 Infra & Ferramentas</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=6abrieljv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7b2ff7&text_color=c9d1d9&count_private=true&locale=pt-br"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6abrieljv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&locale=pt-br"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=6abrieljv&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=7b2ff7&currStreakLabel=00b4d8&locale=pt_BR"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=6abrieljv&bg_color=0d1117&color=00b4d8&line=7b2ff7&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**LTD-BACK-END**](https://github.com/6abrieljv/LTD-BACK-END) | Backend em Java | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**ev3-controle-bluetooth-ev3dev**](https://github.com/6abrieljv/ev3-controle-bluetooth-ev3dev) | Controle do LEGO EV3 via Bluetooth com ev3dev | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**InvestBot**](https://github.com/6abrieljv/InvestBot) | Bot de investimentos | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**iot_controleDeAcesso**](https://github.com/6abrieljv/iot_controleDeAcesso) | Controle de acesso com IoT | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**redirecionador-link**](https://github.com/6abrieljv/redirecionador-link) | Encurtador/redirecionador de links | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00b4d8,100:0d1117&height=120&section=footer" width="100%"/>
+</p>
