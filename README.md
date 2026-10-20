@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/6abrieljv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=%3E+Inicializando+sistema...;%3E+Backend+%7C+APIs+escal%C3%A1veis+%E2%9A%99%EF%B8%8F;%3E+Rob%C3%B3tica+%7C+ESP32+%2B+Sensores+%F0%9F%A4%96;%3E+Conectando+o+f%C3%ADsico+ao+digital+%F0%9F%94%8C;%3E+Status%3A+online+%E2%9C%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Inicializando+sistema...;Backend+%7C+APIs+escalaveis;Robotica+%7C+ESP32+%2B+Sensores;Conectando+o+fisico+ao+digital;Status%3A+online" alt="Backend | Robótica | ESP32" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=6abrieljv&label=Visitas&color=00b4d8&style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=6abrieljv.6abrieljv&left_text=Visitas&left_color=555555&right_color=00b4d8" alt="Visitas" />
   <img src="https://img.shields.io/github/followers/6abrieljv?label=Seguidores&style=flat-square&color=7b2ff7" />
   <img src="https://img.shields.io/badge/Status-Codando%20%26%20Soldando-00b4d8?style=flat-square" />
 </p>
